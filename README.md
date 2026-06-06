@@ -1,6 +1,6 @@
 # Commodity Pricing & Credit Risk Analysis 📊
 
-## 🚀 Overview
+🚀 Overview
 
 This project demonstrates the application of quantitative research, financial modeling, and risk analytics techniques using Python and SQL. The analysis focuses on commodity pricing, natural gas storage contract valuation, credit risk modeling, and FICO score-based borrower risk segmentation.
 
@@ -10,7 +10,7 @@ The project simulates real-world financial decision-making by estimating commodi
 
 ## Project Components
 
-###✅ 1. Commodity Price Analysis
+✅ 1. Commodity Price Analysis
 
 Analyzed historical natural gas prices to identify market trends and seasonal patterns.
 
@@ -28,7 +28,7 @@ Analyzed historical natural gas prices to identify market trends and seasonal pa
 
 ---
 
-###✅ 2. Natural Gas Storage Contract Pricing
+✅ 2. Natural Gas Storage Contract Pricing
 
 Developed a pricing model for a gas storage contract by considering:
 
@@ -51,7 +51,7 @@ Estimate the profitability of a storage contract by modeling all related cash in
 
 ---
 
-###✅ 3. Credit Risk Modeling
+✅ 3. Credit Risk Modeling
 
 Built a machine learning model to estimate the Probability of Default (PD) for loan borrowers.
 
@@ -74,7 +74,7 @@ Built a machine learning model to estimate the Probability of Default (PD) for l
 
 ---
 
-### ✅4. Expected Loss (EL) Estimation
+✅4. Expected Loss (EL) Estimation
 
 Calculated the expected financial loss associated with a loan.
 
@@ -98,7 +98,7 @@ Assumption:
 
 ---
 
-### ✅5. FICO Score Quantization
+ ✅5. FICO Score Quantization
 
 Created a borrower rating framework by converting continuous FICO scores into risk buckets.
 
@@ -120,7 +120,7 @@ Created a borrower rating framework by converting continuous FICO scores into ri
 
 ---
 
-##🛠️Technologies Used
+🛠️Technologies Used
 
 * Python🐍
 * Pandas🐼
@@ -133,7 +133,7 @@ Created a borrower rating framework by converting continuous FICO scores into ri
 
 ---
 
-## 📈Key Insights
+ 📈Key Insights
 
 * Commodity prices fluctuate significantly over time, creating storage arbitrage opportunities.
 * Storage profitability depends on purchase price, selling price, storage costs, and capacity constraints.
@@ -144,7 +144,7 @@ Created a borrower rating framework by converting continuous FICO scores into ri
 
 ---
 
-##💡 Skills Demonstrated
+💡 Skills Demonstrated
 
 * Quantitative Research
 * Financial Modeling
@@ -161,7 +161,7 @@ Created a borrower rating framework by converting continuous FICO scores into ri
 
 ---
 
-## 👩‍💻 Author
+ 👩‍💻 Author
 
 Shrushti Mangela
 
